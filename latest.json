@@ -1,16 +1,16 @@
 {
   "payload": {
     "kind": "buddy-update",
-    "version": "1.0.1",
-    "zxpUrl": "https://github.com/joseulchak/buddy-editor-releases/releases/download/v1.0.1/BuddyEditor-1.0.1.zxp",
+    "version": "1.0.2",
+    "zxpUrl": "https://github.com/joseulchak/buddy-editor-releases/releases/download/v1.0.2/BuddyEditor-1.0.2.zxp",
     "notes": {
-      "pt": "Buddy Editor 1.0.1",
-      "en": "Buddy Editor 1.0.1"
+      "pt": "Buddy Editor 1.0.2",
+      "en": "Buddy Editor 1.0.2"
     },
-    "publishedAt": "2026-11-05T18:32:09.925Z",
+    "publishedAt": "2026-11-05T18:44:56.783Z",
     "sha256": {
-      "zxp": "a0fe8078d27198ab5f64a73e2d81579c8bf5b403ca2f4620af6615c0619d6b6e"
+      "zxp": "56e723967cff37ae6303fb7722c19bd52dca0ffd641ec2cc99f9c7fb8d2d42cc"
     }
   },
-  "signature": "OJOpfrt9i2PjI47I8fR7x/p1mELfFTlhTk6SWHvH3tVCu8basj6I+DG5L6XBV/XR+IXQdgO2kK6ymO3g7p3XAw=="
+  "signature": "UUVqDdT1CZUyIoQH1Sch/Nb69LJXTr+mJ+xhS6eWNYLDQodTi0i74VAT+ub4L5uGTNi8zmAcFI3x9gQGqjNeBA=="
 }
