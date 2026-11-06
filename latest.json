@@ -1,16 +1,16 @@
 {
   "payload": {
     "kind": "buddy-update",
-    "version": "3.0.1",
-    "zxpUrl": "https://github.com/joseulchak/buddy-editor-releases/releases/download/v3.0.1/BuddyEditor-3.0.1.zxp",
+    "version": "3.0.2",
+    "zxpUrl": "https://github.com/joseulchak/buddy-editor-releases/releases/download/v3.0.2/BuddyEditor-3.0.2.zxp",
     "notes": {
-      "pt": "- Buddy Angles: agora dá para dar um nome a cada ângulo (aberto, fechado, lateral…) direto na lista de trilhas de vídeo. O nome aparece na prévia ao lado do V1, V2…, e na escolha da câmera principal. Sem nome, o ângulo fica como \"Ângulo 01\", \"Ângulo 02\"…",
-      "en": "- Buddy Angles: you can now name each angle (wide, close-up, side…) right in the video track list. The name shows next to V1, V2… in the preview and in the main camera list. Without a name, the angle is called \"Angle 01\", \"Angle 02\"…"
+      "pt": "- Buddy Silences: corrigido o erro \"O Premiere não aceitou os cortes\" em clipes com áudio e vídeo vinculados. Se o Premiere não cortar os clipes vinculados, o Buddy desvincula áudio e vídeo e tenta de novo, e avisa na mensagem final.\n- Se o corte ainda falhar, a mensagem e o log mostram o detalhe técnico do que o Premiere respondeu.",
+      "en": "- Buddy Silences: fixed the \"Premiere did not accept the cuts\" error on clips with linked audio and video. If Premiere does not cut the linked clips, Buddy unlinks audio and video, tries again and says so in the result message.\n- If the cut still fails, the message and the log show the technical detail of what Premiere answered."
     },
-    "publishedAt": "2026-11-06T18:57:09.442Z",
+    "publishedAt": "2026-11-06T19:06:55.877Z",
     "sha256": {
-      "zxp": "c4fca11243acaa2d4b28ec4c8d1ff34cd1da5272804cee6bab13aeb622c56123"
+      "zxp": "c2b9f51fd91b12e16852241a4eec795f0a43bb5ed842612a73a672ff35f6a0b9"
     }
   },
-  "signature": "px4SD/2E0j2R7RdH6o3nmRXmwRjyfvoW2IMT1SNirk1xM8lblcqY9BLNQbt39iv/mLPU0OkNz/3Ys1Huf7viBQ=="
+  "signature": "1l5nC5AtiG27cC4wVGqaVakW5iQQeqU6TtrbBHDoZ5QvjzLYNAsKVcxXEsroiVjHAqhSsXKdU/fbjT7otC+pBA=="
 }
