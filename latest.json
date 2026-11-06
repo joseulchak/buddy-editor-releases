@@ -1,16 +1,16 @@
 {
   "payload": {
     "kind": "buddy-update",
-    "version": "3.0.2",
-    "zxpUrl": "https://github.com/joseulchak/buddy-editor-releases/releases/download/v3.0.2/BuddyEditor-3.0.2.zxp",
+    "version": "3.0.3",
+    "zxpUrl": "https://github.com/joseulchak/buddy-editor-releases/releases/download/v3.0.3/BuddyEditor-3.0.3.zxp",
     "notes": {
-      "pt": "- Buddy Silences: corrigido o erro \"O Premiere não aceitou os cortes\" em clipes com áudio e vídeo vinculados. Se o Premiere não cortar os clipes vinculados, o Buddy desvincula áudio e vídeo e tenta de novo, e avisa na mensagem final.\n- Se o corte ainda falhar, a mensagem e o log mostram o detalhe técnico do que o Premiere respondeu.",
-      "en": "- Buddy Silences: fixed the \"Premiere did not accept the cuts\" error on clips with linked audio and video. If Premiere does not cut the linked clips, Buddy unlinks audio and video, tries again and says so in the result message.\n- If the cut still fails, the message and the log show the technical detail of what Premiere answered."
+      "pt": "- Buddy Silences: corrigido o erro \"O Premiere não aceitou os cortes\", que impedia qualquer corte. Agora os silêncios são cortados normalmente.",
+      "en": "- Buddy Silences: fixed the \"Premiere did not accept the cuts\" error that blocked every cut. Silences are now cut as expected."
     },
-    "publishedAt": "2026-11-06T19:06:55.877Z",
+    "publishedAt": "2026-11-06T19:14:06.046Z",
     "sha256": {
-      "zxp": "c2b9f51fd91b12e16852241a4eec795f0a43bb5ed842612a73a672ff35f6a0b9"
+      "zxp": "c97644990c410da42eed500afcd793d72529239fed33da3aba44caa939e43899"
     }
   },
-  "signature": "1l5nC5AtiG27cC4wVGqaVakW5iQQeqU6TtrbBHDoZ5QvjzLYNAsKVcxXEsroiVjHAqhSsXKdU/fbjT7otC+pBA=="
+  "signature": "rmTUJ5uUzXKSlNfMo8NL1O2K2wPqp5DXtR8Xnq+ODxgVctRGPs9vHKgU9sEUBUNiv7qgBXvrMKHeP4SRF0UVAQ=="
 }
