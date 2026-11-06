@@ -1,16 +1,16 @@
 {
   "payload": {
     "kind": "buddy-update",
-    "version": "3.0.0",
-    "zxpUrl": "https://github.com/joseulchak/buddy-editor-releases/releases/download/v3.0.0/BuddyEditor-3.0.0.zxp",
+    "version": "3.0.1",
+    "zxpUrl": "https://github.com/joseulchak/buddy-editor-releases/releases/download/v3.0.1/BuddyEditor-3.0.1.zxp",
     "notes": {
-      "pt": "- Novo módulo Buddy Silences: tira os silêncios de um vídeo de uma pessoa falando. O Buddy procura as pausas na trilha de áudio escolhida (padrão A1) e corta todas as trilhas destrancadas nos mesmos pontos, para tudo continuar sincronizado.\n- Reguladores em milissegundos para o menor silêncio a remover e para o respiro depois e antes da fala, separados.\n- Opção para remover sons curtos no meio das pausas (\"é\", estalos), ligada por padrão.\n- Três modos: cortar e ripple delete (padrão), cortar e apagar (deixa os buracos) ou somente cortar, para revisar.\n- Fade de áudio opcional em cada corte, com duração ajustável, e escolha entre a sequência inteira ou só entre a Entrada e a Saída.\n- Uma cópia de segurança da sequência é criada antes de cortar.",
-      "en": "- New Buddy Silences module: removes the silences from a video of one person talking. Buddy looks for the pauses on the chosen audio track (A1 by default) and cuts every unlocked track at the same points so everything stays in sync.\n- Millisecond controls for the shortest silence to remove and for the breathing room after and before the speech, set separately.\n- Option to remove short sounds in the middle of pauses (\"uh\", clicks), on by default.\n- Three modes: cut and ripple delete (default), cut and delete (keeps the gaps) or cut only, for review.\n- Optional audio fade at every cut with adjustable duration, and a choice between the entire sequence or only between the In and Out marks.\n- A backup copy of the sequence is created before cutting."
+      "pt": "- Buddy Angles: agora dá para dar um nome a cada ângulo (aberto, fechado, lateral…) direto na lista de trilhas de vídeo. O nome aparece na prévia ao lado do V1, V2…, e na escolha da câmera principal. Sem nome, o ângulo fica como \"Ângulo 01\", \"Ângulo 02\"…",
+      "en": "- Buddy Angles: you can now name each angle (wide, close-up, side…) right in the video track list. The name shows next to V1, V2… in the preview and in the main camera list. Without a name, the angle is called \"Angle 01\", \"Angle 02\"…"
     },
-    "publishedAt": "2026-11-06T18:44:01.979Z",
+    "publishedAt": "2026-11-06T18:57:09.442Z",
     "sha256": {
-      "zxp": "05aa68ab2c5ad2ce81461ca29c32e797ac20cc5d0f2c44411a2e0ca2128e87e6"
+      "zxp": "c4fca11243acaa2d4b28ec4c8d1ff34cd1da5272804cee6bab13aeb622c56123"
     }
   },
-  "signature": "IPj3bNHrxpdYzfBpx4grFy+h/zuVIHgNRbvuc2J/A/iQ3CkusQ4C42SsZUXNBKjT8jFu2oUi4OomlLsBJ1mDAw=="
+  "signature": "px4SD/2E0j2R7RdH6o3nmRXmwRjyfvoW2IMT1SNirk1xM8lblcqY9BLNQbt39iv/mLPU0OkNz/3Ys1Huf7viBQ=="
 }
