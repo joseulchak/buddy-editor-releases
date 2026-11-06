@@ -1,16 +1,16 @@
 {
   "payload": {
     "kind": "buddy-update",
-    "version": "1.0.8",
-    "zxpUrl": "https://github.com/joseulchak/buddy-editor-releases/releases/download/v1.0.8/BuddyEditor-1.0.8.zxp",
+    "version": "1.0.9",
+    "zxpUrl": "https://github.com/joseulchak/buddy-editor-releases/releases/download/v1.0.9/BuddyEditor-1.0.9.zxp",
     "notes": {
-      "pt": "- Atualizar em um clique também quando o Buddy está instalado em pasta protegida: o Windows pede permissão uma vez e a atualização é instalada.\n- Se a permissão for recusada, o arquivo .zxp é salvo na pasta Downloads, com instruções claras para instalar pelo ZXP Installer.\n- O motivo de qualquer falha na atualização fica registrado no log de diagnóstico.",
-      "en": "- One-click update now also works when Buddy is installed in a protected folder: Windows asks for permission once and the update is installed.\n- If the permission is declined, the .zxp file is saved to the Downloads folder with clear instructions to install it with the ZXP Installer.\n- The reason for any update failure is written to the diagnostics log."
+      "pt": "- Novo botão \"Enviar diagnóstico\" no aviso de erro e em Configurações: envia o registro técnico para o suporte, com um campo para contar o que aconteceu e uma prévia do que será enviado. No fim aparece um código (ex.: BR-7F3K9Q) para mandar ao suporte.\n- Nada é enviado sem você clicar em Enviar, e o seu nome de usuário do Windows é removido dos caminhos.",
+      "en": "- New \"Send diagnostics\" button on the error banner and in Settings: sends the technical log to support, with a field to describe what happened and a preview of what will be sent. At the end it shows a code (e.g. BR-7F3K9Q) to give to support.\n- Nothing is sent until you click Send, and your Windows user name is removed from file paths."
     },
-    "publishedAt": "2026-11-06T12:57:02.547Z",
+    "publishedAt": "2026-11-06T13:10:36.607Z",
     "sha256": {
-      "zxp": "c93add440a4d6256b979276596cefbeba60098f6fb8d8a55c7a6b8c0ecd164cb"
+      "zxp": "a22ec25cf5a2e4d82b3f9f1078261e6e0bde93439334328848b8ed235aec9f73"
     }
   },
-  "signature": "/xsDyyyzk6VIQBmuv47f81ouACyTNvqPq1JJxveYmHxuJ+sPJafjlqkugxaYAnXYTXdI5HSUkN9QLXE1YKKxDw=="
+  "signature": "PyNAUsbJyLpb0YH61Skm3UPnjl9BhWdBE8pEHV55JSp4JrRZFzFA6pjMQFgPRycvX4axymGhZRBAZr9MAzQeBg=="
 }
