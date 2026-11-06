@@ -1,16 +1,16 @@
 {
   "payload": {
     "kind": "buddy-update",
-    "version": "2.0.3",
-    "zxpUrl": "https://github.com/joseulchak/buddy-editor-releases/releases/download/v2.0.3/BuddyEditor-2.0.3.zxp",
+    "version": "3.0.0",
+    "zxpUrl": "https://github.com/joseulchak/buddy-editor-releases/releases/download/v3.0.0/BuddyEditor-3.0.0.zxp",
     "notes": {
-      "pt": "Buddy Editor 2.0.3",
-      "en": "Buddy Editor 2.0.3"
+      "pt": "- Novo módulo Buddy Silences: tira os silêncios de um vídeo de uma pessoa falando. O Buddy procura as pausas na trilha de áudio escolhida (padrão A1) e corta todas as trilhas destrancadas nos mesmos pontos, para tudo continuar sincronizado.\n- Reguladores em milissegundos para o menor silêncio a remover e para o respiro depois e antes da fala, separados.\n- Opção para remover sons curtos no meio das pausas (\"é\", estalos), ligada por padrão.\n- Três modos: cortar e ripple delete (padrão), cortar e apagar (deixa os buracos) ou somente cortar, para revisar.\n- Fade de áudio opcional em cada corte, com duração ajustável, e escolha entre a sequência inteira ou só entre a Entrada e a Saída.\n- Uma cópia de segurança da sequência é criada antes de cortar.",
+      "en": "- New Buddy Silences module: removes the silences from a video of one person talking. Buddy looks for the pauses on the chosen audio track (A1 by default) and cuts every unlocked track at the same points so everything stays in sync.\n- Millisecond controls for the shortest silence to remove and for the breathing room after and before the speech, set separately.\n- Option to remove short sounds in the middle of pauses (\"uh\", clicks), on by default.\n- Three modes: cut and ripple delete (default), cut and delete (keeps the gaps) or cut only, for review.\n- Optional audio fade at every cut with adjustable duration, and a choice between the entire sequence or only between the In and Out marks.\n- A backup copy of the sequence is created before cutting."
     },
-    "publishedAt": "2026-11-06T17:41:26.957Z",
+    "publishedAt": "2026-11-06T18:44:01.979Z",
     "sha256": {
-      "zxp": "db19935b487dbc0a1612375871339e3313463eb8e76dba9471ccee8d4baae240"
+      "zxp": "05aa68ab2c5ad2ce81461ca29c32e797ac20cc5d0f2c44411a2e0ca2128e87e6"
     }
   },
-  "signature": "ei4BJP1g3VOKUGHC11kd5ABlGlxPKTCWmyK5Y1e89uRCCwlJ84zR3sK07La1ph6bbCnHo9MYbA2EtAoLfccABg=="
+  "signature": "IPj3bNHrxpdYzfBpx4grFy+h/zuVIHgNRbvuc2J/A/iQ3CkusQ4C42SsZUXNBKjT8jFu2oUi4OomlLsBJ1mDAw=="
 }
