@@ -1,16 +1,16 @@
 {
   "payload": {
     "kind": "buddy-update",
-    "version": "1.0.9",
-    "zxpUrl": "https://github.com/joseulchak/buddy-editor-releases/releases/download/v1.0.9/BuddyEditor-1.0.9.zxp",
+    "version": "2.0.1",
+    "zxpUrl": "https://github.com/joseulchak/buddy-editor-releases/releases/download/v2.0.1/BuddyEditor-2.0.1.zxp",
     "notes": {
-      "pt": "- Novo botão \"Enviar diagnóstico\" no aviso de erro e em Configurações: envia o registro técnico para o suporte, com um campo para contar o que aconteceu e uma prévia do que será enviado. No fim aparece um código (ex.: BR-7F3K9Q) para mandar ao suporte.\n- Nada é enviado sem você clicar em Enviar, e o seu nome de usuário do Windows é removido dos caminhos.",
-      "en": "- New \"Send diagnostics\" button on the error banner and in Settings: sends the technical log to support, with a field to describe what happened and a preview of what will be sent. At the end it shows a code (e.g. BR-7F3K9Q) to give to support.\n- Nothing is sent until you click Send, and your Windows user name is removed from file paths."
+      "pt": "- Buddy Podcast: com a timeline vazia, o painel não lista mais falantes e câmeras que não existem. Aparecem os avisos \"Nenhuma trilha de áudio\" e \"Nenhuma trilha de vídeo\".",
+      "en": "- Buddy Podcast: with an empty timeline, the panel no longer lists speakers and cameras that do not exist. It shows \"No audio track\" and \"No video track\" warnings instead."
     },
-    "publishedAt": "2026-11-06T13:10:36.607Z",
+    "publishedAt": "2026-11-06T13:47:48.091Z",
     "sha256": {
-      "zxp": "a22ec25cf5a2e4d82b3f9f1078261e6e0bde93439334328848b8ed235aec9f73"
+      "zxp": "6e9dd1830b9de64158ce484af5b624035a93c2f749259a75ce617b653f68954d"
     }
   },
-  "signature": "PyNAUsbJyLpb0YH61Skm3UPnjl9BhWdBE8pEHV55JSp4JrRZFzFA6pjMQFgPRycvX4axymGhZRBAZr9MAzQeBg=="
+  "signature": "HxPQrc0k1LPmGsJMdBjIDQAwlMQ7L8unx2GIks9fgco7DPM39Pwqh8uFcDula8Ztct09S7uMtqOG4L/2HWTLBw=="
 }
