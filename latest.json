@@ -1,16 +1,16 @@
 {
   "payload": {
     "kind": "buddy-update",
-    "version": "1.0.7",
-    "zxpUrl": "https://github.com/joseulchak/buddy-editor-releases/releases/download/v1.0.7/BuddyEditor-1.0.7.zxp",
+    "version": "1.0.8",
+    "zxpUrl": "https://github.com/joseulchak/buddy-editor-releases/releases/download/v1.0.8/BuddyEditor-1.0.8.zxp",
     "notes": {
-      "pt": "- O painel espera até 90 segundos o Premiere responder (antes desistia em 20), e mostra \"Aguardando o Premiere…\" em vez de travar em \"Iniciando\".\n- Mensagem de erro mais clara quando o Premiere não responde, com o detalhe técnico e a dica do painel Adobe Stock.\n- Novo log de diagnóstico em %LOCALAPPDATA%\\BuddyEditor\\logs\\buddy.log, com botão \"Abrir pasta de logs\" no aviso de erro e em Configurações.",
-      "en": "- The panel now waits up to 90 seconds for Premiere to respond (it used to give up after 20) and shows \"Waiting for Premiere…\" instead of hanging on \"Starting\".\n- Clearer error when Premiere does not respond, with the technical detail and the Adobe Stock panel tip.\n- New diagnostics log at %LOCALAPPDATA%\\BuddyEditor\\logs\\buddy.log, with an \"Open logs folder\" button in the error banner and in Settings."
+      "pt": "- Atualizar em um clique também quando o Buddy está instalado em pasta protegida: o Windows pede permissão uma vez e a atualização é instalada.\n- Se a permissão for recusada, o arquivo .zxp é salvo na pasta Downloads, com instruções claras para instalar pelo ZXP Installer.\n- O motivo de qualquer falha na atualização fica registrado no log de diagnóstico.",
+      "en": "- One-click update now also works when Buddy is installed in a protected folder: Windows asks for permission once and the update is installed.\n- If the permission is declined, the .zxp file is saved to the Downloads folder with clear instructions to install it with the ZXP Installer.\n- The reason for any update failure is written to the diagnostics log."
     },
-    "publishedAt": "2026-11-06T12:46:56.109Z",
+    "publishedAt": "2026-11-06T12:57:02.547Z",
     "sha256": {
-      "zxp": "4d97d141202969ddad550181bea68d6d9c9c15c7b178694bd4aa4ce92f0451cd"
+      "zxp": "c93add440a4d6256b979276596cefbeba60098f6fb8d8a55c7a6b8c0ecd164cb"
     }
   },
-  "signature": "+uaHeHsedF2e9J2x27dELjQCDARDSlHQKLst9qWbWAx5Zcc8XaCfH+yiNjbDbWLyNq3vZyUOHHKFB0PU02V4AQ=="
+  "signature": "/xsDyyyzk6VIQBmuv47f81ouACyTNvqPq1JJxveYmHxuJ+sPJafjlqkugxaYAnXYTXdI5HSUkN9QLXE1YKKxDw=="
 }
