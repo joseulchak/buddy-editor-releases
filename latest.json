@@ -1,16 +1,16 @@
 {
   "payload": {
     "kind": "buddy-update",
-    "version": "2.0.1",
-    "zxpUrl": "https://github.com/joseulchak/buddy-editor-releases/releases/download/v2.0.1/BuddyEditor-2.0.1.zxp",
+    "version": "2.0.2",
+    "zxpUrl": "https://github.com/joseulchak/buddy-editor-releases/releases/download/v2.0.2/BuddyEditor-2.0.2.zxp",
     "notes": {
-      "pt": "- Buddy Podcast: com a timeline vazia, o painel não lista mais falantes e câmeras que não existem. Aparecem os avisos \"Nenhuma trilha de áudio\" e \"Nenhuma trilha de vídeo\".",
-      "en": "- Buddy Podcast: with an empty timeline, the panel no longer lists speakers and cameras that do not exist. It shows \"No audio track\" and \"No video track\" warnings instead."
+      "pt": "- Corrige o erro \"O Premiere não respondeu ao Buddy\" em computadores onde o motor de scripts do Premiere falhava ao abrir o painel: os scripts do Buddy agora são carregados pelo próprio painel, e qualquer falha aparece com a mensagem e a linha no diagnóstico.",
+      "en": "- Fixes the \"Premiere did not respond to Buddy\" error on computers where Premiere's script engine failed when the panel opened: Buddy's scripts are now loaded by the panel itself, and any failure shows its message and line in the diagnostics."
     },
-    "publishedAt": "2026-11-06T13:47:48.091Z",
+    "publishedAt": "2026-11-06T14:26:12.879Z",
     "sha256": {
-      "zxp": "6e9dd1830b9de64158ce484af5b624035a93c2f749259a75ce617b653f68954d"
+      "zxp": "a2b4a5cbcc14c895565b8b107a24097283886781a65cd96d7eacd09b631ac333"
     }
   },
-  "signature": "HxPQrc0k1LPmGsJMdBjIDQAwlMQ7L8unx2GIks9fgco7DPM39Pwqh8uFcDula8Ztct09S7uMtqOG4L/2HWTLBw=="
+  "signature": "M1YXEPWWtlMRRgW59sx8w42JrX99jqATy2Yr8/z1Qo4E+NTCdo4HvUbeC0dOsWW7ZgefSCwGUWBBgcRxC95EBw=="
 }
