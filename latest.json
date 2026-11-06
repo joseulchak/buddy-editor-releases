@@ -1,17 +1,16 @@
 {
   "payload": {
     "kind": "buddy-update",
-    "version": "1.0.5",
-    "zxpUrl": "https://github.com/joseulchak/buddy-editor-releases/releases/download/v1.0.5/BuddyEditor-1.0.5.zxp",
-    "minimumVersion": "1.0.5",
+    "version": "1.0.7",
+    "zxpUrl": "https://github.com/joseulchak/buddy-editor-releases/releases/download/v1.0.7/BuddyEditor-1.0.7.zxp",
     "notes": {
-      "pt": "Buddy Editor 1.0.5",
-      "en": "Buddy Editor 1.0.5"
+      "pt": "- O painel espera até 90 segundos o Premiere responder (antes desistia em 20), e mostra \"Aguardando o Premiere…\" em vez de travar em \"Iniciando\".\n- Mensagem de erro mais clara quando o Premiere não responde, com o detalhe técnico e a dica do painel Adobe Stock.\n- Novo log de diagnóstico em %LOCALAPPDATA%\\BuddyEditor\\logs\\buddy.log, com botão \"Abrir pasta de logs\" no aviso de erro e em Configurações.",
+      "en": "- The panel now waits up to 90 seconds for Premiere to respond (it used to give up after 20) and shows \"Waiting for Premiere…\" instead of hanging on \"Starting\".\n- Clearer error when Premiere does not respond, with the technical detail and the Adobe Stock panel tip.\n- New diagnostics log at %LOCALAPPDATA%\\BuddyEditor\\logs\\buddy.log, with an \"Open logs folder\" button in the error banner and in Settings."
     },
-    "publishedAt": "2026-11-05T19:10:35.034Z",
+    "publishedAt": "2026-11-06T12:46:56.109Z",
     "sha256": {
-      "zxp": "0c047ef286da2745f262bee9f4aaeef0eab84816d0cbe72bda886e67efd27b57"
+      "zxp": "4d97d141202969ddad550181bea68d6d9c9c15c7b178694bd4aa4ce92f0451cd"
     }
   },
-  "signature": "1f+ZbQYuh6PJM1LxeRMwJ1vcMfRSAkML/rc4pVY3NjthxnMIBhgexvr4CJW7OiMk7a/hhfryBCwS9clZLJ6xBw=="
+  "signature": "+uaHeHsedF2e9J2x27dELjQCDARDSlHQKLst9qWbWAx5Zcc8XaCfH+yiNjbDbWLyNq3vZyUOHHKFB0PU02V4AQ=="
 }
