@@ -1,16 +1,16 @@
 {
   "payload": {
     "kind": "buddy-update",
-    "version": "2.0.2",
-    "zxpUrl": "https://github.com/joseulchak/buddy-editor-releases/releases/download/v2.0.2/BuddyEditor-2.0.2.zxp",
+    "version": "2.0.3",
+    "zxpUrl": "https://github.com/joseulchak/buddy-editor-releases/releases/download/v2.0.3/BuddyEditor-2.0.3.zxp",
     "notes": {
-      "pt": "- Corrige o erro \"O Premiere não respondeu ao Buddy\" em computadores onde o motor de scripts do Premiere falhava ao abrir o painel: os scripts do Buddy agora são carregados pelo próprio painel, e qualquer falha aparece com a mensagem e a linha no diagnóstico.",
-      "en": "- Fixes the \"Premiere did not respond to Buddy\" error on computers where Premiere's script engine failed when the panel opened: Buddy's scripts are now loaded by the panel itself, and any failure shows its message and line in the diagnostics."
+      "pt": "Buddy Editor 2.0.3",
+      "en": "Buddy Editor 2.0.3"
     },
-    "publishedAt": "2026-11-06T14:26:12.879Z",
+    "publishedAt": "2026-11-06T17:41:26.957Z",
     "sha256": {
-      "zxp": "a2b4a5cbcc14c895565b8b107a24097283886781a65cd96d7eacd09b631ac333"
+      "zxp": "db19935b487dbc0a1612375871339e3313463eb8e76dba9471ccee8d4baae240"
     }
   },
-  "signature": "M1YXEPWWtlMRRgW59sx8w42JrX99jqATy2Yr8/z1Qo4E+NTCdo4HvUbeC0dOsWW7ZgefSCwGUWBBgcRxC95EBw=="
+  "signature": "ei4BJP1g3VOKUGHC11kd5ABlGlxPKTCWmyK5Y1e89uRCCwlJ84zR3sK07La1ph6bbCnHo9MYbA2EtAoLfccABg=="
 }
