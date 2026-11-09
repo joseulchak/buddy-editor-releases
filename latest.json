@@ -1,16 +1,16 @@
 {
   "payload": {
     "kind": "buddy-update",
-    "version": "4.0.0",
-    "zxpUrl": "https://github.com/joseulchak/buddy-editor-releases/releases/download/v4.0.0/BuddyEditor-4.0.0.zxp",
+    "version": "4.0.1",
+    "zxpUrl": "https://github.com/joseulchak/buddy-editor-releases/releases/download/v4.0.1/BuddyEditor-4.0.1.zxp",
     "notes": {
-      "pt": "- Novo módulo Buddy Zoom: adiciona zooms automáticos nos clipes da trilha-alvo e de todas as trilhas abaixo dela, para que as sobreposições nas trilhas de cima fiquem paradas.\n- Ritmo do zoom de Calmo a Intenso, e gatilhos: cortes (sempre ligado), fala recomeçando depois de uma pausa e ênfase na voz (o zoom mais forte quando a voz fica mais alta).\n- Clique na pré-visualização do quadro para escolher o ponto de ancoragem; a caixa tracejada mostra o que fica na tela no zoom máximo. Zoom mínimo e máximo ajustáveis.\n- Três estilos que podem ser misturados: Jump cut (instantâneo), Suave (entrada e saída suavizadas) e Snap-in (entrada animada rápida, saída instantânea), mais um movimento sutil opcional de câmera na mão.\n- Pré-visualização ao vivo com a barra da linha do tempo, botão \"Gerar outra variação\" e escolha entre a sequência inteira ou só entre a Entrada e a Saída.\n- Os zooms são keyframes de Escala e Posição no efeito Movimento, então continuam editáveis. Uma cópia de segurança da sequência é criada antes de aplicar, e clipes que já têm keyframes de Escala ou Posição ficam como estão.",
-      "en": "- New Buddy Zoom module: adds automatic zooms to the clips of the target track and every track below it, so overlays on the tracks above stay still.\n- Zoom pace from Calm to Intense, and triggers: cuts (always on), speech starting again after a pause, and voice emphasis (the strongest zoom when the voice gets louder).\n- Click the frame preview to set the anchor point; the dashed box shows what stays on screen at the maximum zoom. Minimum and maximum zoom are adjustable.\n- Three styles that can be mixed: Jump cut (instant), Smooth (eased in and out) and Snap-in (fast animated entry, instant exit), plus an optional subtle handheld camera movement.\n- Live preview with a timeline bar, a \"Generate another variation\" button and a choice between the entire sequence or only between the In and Out marks.\n- Zooms are Scale and Position keyframes on the Motion effect, so they stay editable. A backup copy of the sequence is created before applying, and clips that already have Scale or Position keyframes are left as they are."
+      "pt": "- As abas Palavrões e Legendas ficam ocultas por enquanto. O painel mostra Podcast, Silêncios, Zoom e Ângulos.",
+      "en": "- The Profanity and Captions tabs are hidden for now. The panel shows Podcast, Silences, Zoom and Angles."
     },
-    "publishedAt": "2026-11-09T16:05:08.840Z",
+    "publishedAt": "2026-11-09T16:47:57.263Z",
     "sha256": {
-      "zxp": "97e32b84deb6a44b801d66017093e624a41ed44f57b1c467f14175adcacd1a64"
+      "zxp": "5d7bcf089f3418a4dc4ea46e789aa4d15a1dea56d01d97e9f8aaa8a49003e769"
     }
   },
-  "signature": "+/hG9Ly7HHw1DBCbgfE5xR38OdMvCynYK8azEdB+VWlR1V1yW0O0Xo0C5oCD7NVguhm4oEo/rDzhJHQqTmT4DA=="
+  "signature": "YeokX0VR7A+BX4Fyby4tke7AFqW9czcWsOL64lkV5roxI2ghT4nNf5Hbzxd+3b40kYIIAkinyht8CBdTxJsOAw=="
 }
